@@ -211,7 +211,7 @@ npm --version
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/github-analyzer.git
+git clone https://github.com/Akshay1267/github-analyzer.git
 cd github-analyzer
 
 # Run setup script
@@ -231,7 +231,7 @@ npm start
 
 #### **Step 1: Clone Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/github-analyzer.git
+git clone https://github.com/Akshay1267/github-analyzer.git
 cd github-analyzer
 ```
 
@@ -334,7 +334,7 @@ gaearon      # Open source maintainer
 http://localhost:5000/api
 
 # Production
-https://github-analyzer-4ms0.onrender.com/api
+https://github-analyzer-97ye.onrender.com
 ```
 
 ### **Endpoints**
@@ -561,15 +561,15 @@ topLanguages = languages
 
 ## 👤 Contact
 
-**Your Name**
+**Akshay Jain**
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourhandle](https://github.com/yourhandle)
+- 📧 Email: akshay.jain9568@gmail.com
+- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/akshay-jain-8816252a5/)
+- 🐙 GitHub: [@yourhandle](https://github.com/Akshay1267)
 
 **Project:**
 - 🔗 Live: [https://github-analyzer-liart.vercel.app/](https://github-analyzer-liart.vercel.app/)
-- 📦 Repo: [https://github.com/YOUR_USERNAME/github-analyzer](https://github.com/YOUR_USERNAME/github-analyzer)
+- 📦 Repo: [https://github.com/YOUR_USERNAME/github-analyzer](https://github.com/Akshay1267/github-analyzer.git)
 
 ---
 
@@ -594,12 +594,6 @@ curl https://your-backend.com/api/health
 # Add GitHub token to backend/.env
 GITHUB_TOKEN=your_token
 ```
-
-**Need Help?**
-- 📧 info@unsaidtalks.com
-- 💬 +91-7303573374
-
----
 
 ## 🙏 Acknowledgments
 
