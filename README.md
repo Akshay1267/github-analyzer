@@ -564,8 +564,8 @@ topLanguages = languages
 **Akshay Jain**
 
 - 📧 Email: akshay.jain9568@gmail.com
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/akshay-jain-8816252a5/)
-- 🐙 GitHub: [@yourhandle](https://github.com/Akshay1267)
+- 💼 LinkedIn: (https://www.linkedin.com/in/akshay-jain-8816252a5/)
+- 🐙 GitHub: (https://github.com/Akshay1267)
 
 **Project:**
 - 🔗 Live: [https://github-analyzer-liart.vercel.app/](https://github-analyzer-liart.vercel.app/)
