@@ -8,7 +8,7 @@
 
 **Transform Your GitHub Profile into Recruiter-Ready Proof**
 
-[Live Demo](https://github-analyzer-liart.vercel.app/) • [Watch Demo Video](#-demo-video) • [Report Bug](#-support)
+[Live Demo](https://github-analyzer-liart.vercel.app/) • [Watch Demo Video](https://drive.google.com/file/d/1r5vvX5wtZazH5lh_OQCfBfHLrsOmfBuc/view?usp=sharing) • [Report Bug](#-support)
 
 </div>
 
